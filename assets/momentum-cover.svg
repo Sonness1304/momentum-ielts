@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="640" viewBox="0 0 1440 640" role="img" aria-labelledby="title desc">
+  <title id="title">Momentum IELTS Learning</title>
+  <desc id="desc">Original product illustration in pearl, charcoal, mint and peach. Four practice skills connected to a purposeful learning journey. Not an application screenshot.</desc>
+  <defs>
+    <radialGradient id="mint"><stop stop-color="#B2E6D5" stop-opacity=".9"/><stop offset="1" stop-color="#F7F8F5" stop-opacity="0"/></radialGradient>
+    <radialGradient id="peach"><stop stop-color="#F3C9AE" stop-opacity=".8"/><stop offset="1" stop-color="#F7F8F5" stop-opacity="0"/></radialGradient>
+    <radialGradient id="sky"><stop stop-color="#B9DFE6" stop-opacity=".8"/><stop offset="1" stop-color="#F7F8F5" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1440" height="640" rx="28" fill="#F7F8F5"/>
+  <ellipse cx="180" cy="80" rx="500" ry="360" fill="url(#mint)"/>
+  <ellipse cx="1290" cy="510" rx="540" ry="400" fill="url(#peach)"/>
+  <ellipse cx="1070" cy="80" rx="430" ry="340" fill="url(#sky)"/>
+  <g font-family="Segoe UI, sans-serif" fill="#253036">
+    <rect x="72" y="62" width="48" height="48" rx="15" fill="#253036"/>
+    <text x="83" y="96" font-size="32" font-weight="800" fill="#FFFFFF">m.</text>
+    <text x="136" y="94" font-size="25" font-weight="700" letter-spacing="-.6">momentum</text>
+    <text x="74" y="183" font-size="14" font-weight="700" letter-spacing="3" fill="#4D6B64">IELTS LEARNING / LIVE BETA</text>
+    <text x="68" y="267" font-size="72" font-weight="750" letter-spacing="-3">Practice with purpose.</text>
+    <text x="68" y="348" font-size="72" font-weight="750" letter-spacing="-3">Keep your progress.</text>
+    <text x="74" y="405" font-size="23" fill="#53676B">Four skills. One connected learning workspace.</text>
+    <text x="74" y="441" font-size="20" fill="#53676B">Save your work. Understand your mistakes. Come back stronger.</text>
+    <g font-size="17" font-weight="600">
+      <rect x="74" y="495" width="130" height="50" rx="25" fill="#FFFFFF" stroke="#CADBD5"/>
+      <text x="103" y="527">Reading</text>
+      <rect x="216" y="495" width="140" height="50" rx="25" fill="#FFFFFF" stroke="#CADBD5"/>
+      <text x="244" y="527">Listening</text>
+      <rect x="368" y="495" width="130" height="50" rx="25" fill="#FFFFFF" stroke="#CADBD5"/>
+      <text x="399" y="527">Writing</text>
+      <rect x="510" y="495" width="140" height="50" rx="25" fill="#FFFFFF" stroke="#CADBD5"/>
+      <text x="539" y="527">Speaking</text>
+    </g>
+    <g transform="translate(1060 188)">
+      <path d="M0 174 C64 174 43 70 109 70 S170 0 230 0" fill="none" stroke="#6B9E96" stroke-width="3" stroke-dasharray="6 9"/>
+      <circle cx="0" cy="174" r="13" fill="#253036"/>
+      <circle cx="109" cy="70" r="13" fill="#FFFFFF" stroke="#6B9E96" stroke-width="3"/>
+      <circle cx="230" cy="0" r="13" fill="#FFFFFF" stroke="#6B9E96" stroke-width="3"/>
+      <text x="-25" y="218" font-size="14" fill="#53676B">Practice</text>
+      <text x="82" y="115" font-size="14" fill="#53676B">Reflect</text>
+      <text x="205" y="45" font-size="14" fill="#53676B">Repeat</text>
+    </g>
+    <text x="74" y="595" font-size="13" letter-spacing="1.2" fill="#617676">PRODUCT SHOWCASE · APPLICATION SOURCE PRIVATE</text>
+  </g>
+</svg>
